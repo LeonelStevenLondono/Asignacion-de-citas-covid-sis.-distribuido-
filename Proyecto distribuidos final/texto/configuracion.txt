@@ -1,0 +1,5 @@
+Erika Alejandra Gonzalez-123458-50-fiebre,tos,cansancio,dolor,falta de aire,insuficiencia pulmonar,shock septico,falla multiorganica-Sura-cirugia del corazon,cirugia de la rodilla-no tiene
+leonel steven londono-12345678-70-fiebre,tos,cansancio,dolor,falta de aire,insuficiencia pulmonar,shock septico,falla multiorganica-Sura-cirugia del corazon,cirugia de la rodilla-leusemia,diabetes
+Brayan Gonzalez-12345543558-70-fiebre,tos,cansancio,dolor,falta de aire,insuficiencia pulmonar,shock septico,falla multiorganica-Sura-cirugia del corazon,cirugia de la rodilla-leusemia,diabetes
+Maria Cristobal-13478-60-tos,cansancio,dolor,falta de aire,insuficiencia pulmonar-Sura-cirugia del corazon,cirugia de la rodilla-leusemia,diabetes
+final
